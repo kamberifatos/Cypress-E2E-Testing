@@ -1,0 +1,12 @@
+{
+  "name": "cypress-e2e-tests",
+  "version": "1.0.0",
+  "description": "End-to-end automated testing using Cypress.",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^15.8.1"
+  }
+}
